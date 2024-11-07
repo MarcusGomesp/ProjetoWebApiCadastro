@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\CursoDesenvolvimentoAPIC#\\WFConfin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4AF395-2E7B-45FD-A3C1-3693214195DC}|WFConfin\\WFConfin.csproj|c:\\users\\user\\desktop\\cursodesenvolvimentoapic#\\wfconfin\\wfconfin\\models\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4AF395-2E7B-45FD-A3C1-3693214195DC}|WFConfin\\WFConfin.csproj|solutionrelative:wfconfin\\models\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4AF395-2E7B-45FD-A3C1-3693214195DC}|WFConfin\\WFConfin.csproj|c:\\users\\user\\desktop\\cursodesenvolvimentoapic#\\wfconfin\\wfconfin\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD4AF395-2E7B-45FD-A3C1-3693214195DC}|WFConfin\\WFConfin.csproj|solutionrelative:wfconfin\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4AF395-2E7B-45FD-A3C1-3693214195DC}|WFConfin\\WFConfin.csproj|c:\\users\\user\\desktop\\cursodesenvolvimentoapic#\\wfconfin\\wfconfin\\data\\wfconfindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4AF395-2E7B-45FD-A3C1-3693214195DC}|WFConfin\\WFConfin.csproj|solutionrelative:wfconfin\\data\\wfconfindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4AF395-2E7B-45FD-A3C1-3693214195DC}|WFConfin\\WFConfin.csproj|c:\\users\\user\\desktop\\cursodesenvolvimentoapic#\\wfconfin\\wfconfin\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4AF395-2E7B-45FD-A3C1-3693214195DC}|WFConfin\\WFConfin.csproj|solutionrelative:wfconfin\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4AF395-2E7B-45FD-A3C1-3693214195DC}|WFConfin\\WFConfin.csproj|c:\\users\\user\\desktop\\cursodesenvolvimentoapic#\\wfconfin\\wfconfin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4AF395-2E7B-45FD-A3C1-3693214195DC}|WFConfin\\WFConfin.csproj|solutionrelative:wfconfin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4AF395-2E7B-45FD-A3C1-3693214195DC}|WFConfin\\WFConfin.csproj|c:\\users\\user\\desktop\\cursodesenvolvimentoapic#\\wfconfin\\wfconfin\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4AF395-2E7B-45FD-A3C1-3693214195DC}|WFConfin\\WFConfin.csproj|solutionrelative:wfconfin\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CursoDesenvolvimentoAPIC#\\WFConfin\\WFConfin\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "WFConfin\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CursoDesenvolvimentoAPIC#\\WFConfin\\WFConfin\\Services\\TokenService.cs",
+              "RelativeToolTip": "WFConfin\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:16:49.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cidade.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CursoDesenvolvimentoAPIC#\\WFConfin\\WFConfin\\Models\\Cidade.cs",
+              "RelativeDocumentMoniker": "WFConfin\\Models\\Cidade.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CursoDesenvolvimentoAPIC#\\WFConfin\\WFConfin\\Models\\Cidade.cs",
+              "RelativeToolTip": "WFConfin\\Models\\Cidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:43:13.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CidadeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CursoDesenvolvimentoAPIC#\\WFConfin\\WFConfin\\Controllers\\CidadeController.cs",
+              "RelativeDocumentMoniker": "WFConfin\\Controllers\\CidadeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CursoDesenvolvimentoAPIC#\\WFConfin\\WFConfin\\Controllers\\CidadeController.cs",
+              "RelativeToolTip": "WFConfin\\Controllers\\CidadeController.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAswNgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T01:05:15.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WfConfinDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CursoDesenvolvimentoAPIC#\\WFConfin\\WFConfin\\Data\\WfConfinDbContext.cs",
+              "RelativeDocumentMoniker": "WFConfin\\Data\\WfConfinDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CursoDesenvolvimentoAPIC#\\WFConfin\\WFConfin\\Data\\WfConfinDbContext.cs",
+              "RelativeToolTip": "WFConfin\\Data\\WfConfinDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T01:04:23.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CursoDesenvolvimentoAPIC#\\WFConfin\\WFConfin\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WFConfin\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CursoDesenvolvimentoAPIC#\\WFConfin\\WFConfin\\appsettings.Development.json",
+              "RelativeToolTip": "WFConfin\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T00:53:14.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CursoDesenvolvimentoAPIC#\\WFConfin\\WFConfin\\Program.cs",
+              "RelativeDocumentMoniker": "WFConfin\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CursoDesenvolvimentoAPIC#\\WFConfin\\WFConfin\\Program.cs",
+              "RelativeToolTip": "WFConfin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T00:52:33.439Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
