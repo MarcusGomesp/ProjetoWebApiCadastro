@@ -1,0 +1,41 @@
+## .NET / Visual Studio
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ll]og/
+[Ll]ogs/
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+*.cache
+*.log
+TestResults/
+[Tt]est[Rr]esult*/
+coverage*/
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Segredos e configurações locais (nunca versionar)
+appsettings.*.local.json
+*.env
+.env*
+secrets.json
+
+## Arquivos enviados pelos usuários em tempo de execução
+**/uploads/*
+!**/uploads/.gitkeep
+
+## Sistema operacional
+.DS_Store
+Thumbs.db
